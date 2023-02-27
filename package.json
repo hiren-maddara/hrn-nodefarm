@@ -1,0 +1,14 @@
+{
+  "name": "node-farm",
+  "version": "1.0.0",
+  "description": "A simple node server-side web app, from scratch",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "hiren maddara",
+  "license": "ISC",
+  "dependencies": {
+    "slugify": "~1.6.5"
+  }
+}
